@@ -9,6 +9,7 @@ import { addToCart, caltotalQuantity, getProductsList } from "../actions/actions
 const Shop = () => {
     const [data,setdata]=useState([
     ])
+    const [value,setValue]=useState(0)
 
     const dispatch=useDispatch()
       
