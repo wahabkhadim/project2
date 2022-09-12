@@ -1,0 +1,171 @@
+
+.first-logo{
+  float: left;
+}
+
+.cont-1{
+   
+  margin-left: 5px;
+    margin-top: 20px;
+    max-height: max-content;
+}
+
+  .img-0{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+  
+  }
+  .sign-up-div{
+    float: right;
+ 
+
+}
+  .basket-div{
+    
+    margin-top: 20px;
+    float: right;
+    
+  }
+
+ 
+ 
+
+  .logo-2{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+  h2{
+    text-align: start;
+    margin-left: 10px;
+    font-weight:900;
+  }
+  .form-container{
+    width: 60%;
+    border: 2px solid rgb(112, 109, 109);
+    text-align: center;
+    padding-bottom: 10px;
+    height: 270px;
+    margin-left: 254px;
+    background-color: white;
+  }
+  input[ type=email],[type=password]{
+    width: 30%;
+    height: 25px;
+
+    margin: 10px;
+  }
+  label{
+    display:block;
+    padding-left: 10px;
+    font-weight: bold;
+    color: rgb(34, 34, 34);
+  }
+  .form-class{
+    text-align: start;
+  }
+  a{
+    font-size: medium;
+  }
+  .sign-button{
+    margin-left: 380px;
+    margin-bottom: 50px;
+  }
+
+  #forgot{
+    font-size: small;
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(92, 86, 86);
+  }
+  .button-style{
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  #signnn{
+    align-self: center;
+    font-weight: bolder;
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    margin-left: 205px;
+    
+    
+  }
+  
+  .table-container{
+    margin-right: 300px;
+    float: right;
+    margin-top: -160px;
+  
+  }
+  
+  #button-1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    border-style: dotted;
+    margin-bottom: 10px;
+  }
+  #button-2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-style: dotted;
+    margin-bottom: 10px;
+  }
+  
+  #button-3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-style:dotted ;
+  }
+  .footer-first{
+    display: table;
+    text-align: center;
+    margin-left: 254px;
+    margin-right: auto;
+    border: 3px solid rgb(112, 109, 109);
+    width: 60%;
+    text-align: center;
+    background-color: rgba(158, 147, 147,0.9);
+    height: 30%;
+    margin-top: 40px;
+    
+    
+  
+  }
+
+
+  #lasttt-02{
+    border: 1px solid black;
+      width: 80px;
+      font-weight: bolder;
+      margin-left: 40px;
+      margin-bottom: 10px;
+      color: wheat;
+      background-color: black;
+      padding: 2px;
+     
+  }
+
+  .vl{
+    border-right: 1px solid black ;
+    height: 160px;
+    margin-right: 685px;
+    margin-top: -260px;
+    padding-bottom: 20px;
+  }
+  
