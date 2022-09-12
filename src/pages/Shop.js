@@ -7,7 +7,7 @@ import { addToCart, caltotalQuantity, getProductsList } from "../actions/actions
 
 
 const Shop = () => {
-    const [data,setdata]=useState([
+    const [data1,setdata1]=useState([
     ])
     const [value,setValue]=useState(0)
 
