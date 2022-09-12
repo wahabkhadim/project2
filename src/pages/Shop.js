@@ -10,6 +10,7 @@ const Shop = () => {
     const [data,setdata]=useState([
     ])
     const [add,setadd]=useState(0)
+    const [value,setValue]=useState(0)
 
     const dispatch=useDispatch()
       
