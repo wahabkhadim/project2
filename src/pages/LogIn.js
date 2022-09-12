@@ -10,6 +10,7 @@ import { loggedIn } from "../actions/actions";
 const LogIn = () => {
   const [Email, setEmail] = useState("");
   const [Password, setPassword] = useState("");
+  const [add2,setadd2]=useState("")
 
   const history=useNavigate()
   const dispatch=useDispatch()
